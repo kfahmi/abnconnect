@@ -1,0 +1,1 @@
+ <footer class="footer text-center"> 2018 &copy; Auth-mi by IDM </footer>
